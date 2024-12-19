@@ -1,0 +1,110 @@
+[
+  {
+    "id": 0,
+    "check": true,
+    "name": "Alpha Networks Inc",
+    "fccid": "RRK"
+  },
+  {
+    "id": 1,
+    "check": true,
+    "name": "Arcadyan Technology Corporation",
+    "fccid": "RAX"
+  },
+  {
+    "id": 2,
+    "check": true,
+    "name": "Askey Computer Corp",
+    "fccid": "H8N"
+  },
+  {
+    "id": 3,
+    "check": true,
+    "name": "AzureWave Technologies Inc",
+    "fccid": "TLZ"
+  },
+  {
+    "id": 4,
+    "check": true,
+    "name": "CommScope Technologies LLC",
+    "fccid": "QHY"
+  },
+  {
+    "id": 5,
+    "check": true,
+    "name": "CommScope Inc of North Carolina",
+    "fccid": "TOU"
+  },
+  {
+    "id": 6,
+    "check": true,
+    "name": "Company",
+    "fccid": "Grantee Code"
+  },
+  {
+    "id": 7,
+    "check": true,
+    "name": "Hitron TECHNOLOGIES",
+    "fccid": "U4P"
+  },
+  {
+    "id": 8,
+    "check": true,
+    "name": "Hitron Technologies Inc",
+    "fccid": "2AHKM"
+  },
+  {
+    "id": 9,
+    "check": true,
+    "name": "PEGATRON CORPORATION",
+    "fccid": "VUI"
+  },
+  {
+    "id": 10,
+    "check": true,
+    "name": "SAGEMCOM BROADBAND SAS",
+    "fccid": "VW3"
+  },
+  {
+    "id": 11,
+    "check": true,
+    "name": "Sagemcom SAS",
+    "fccid": "SN8"
+  },
+  {
+    "id": 12,
+    "check": true,
+    "name": "TP-Link Corporation Limited",
+    "fccid": "2AXJ4"
+  },
+  {
+    "id": 13,
+    "check": true,
+    "name": "TP-Link Technologies Co Ltds",
+    "fccid": "TE7"
+  },
+  {
+    "id": 14,
+    "check": true,
+    "name": "Technicolor Connected Home USA LLC",
+    "fccid": "G95"
+  },
+  {
+    "id": 15,
+    "check": true,
+    "name": "Technicolor Delivery Technologies Belgium",
+    "fccid": "RSE"
+  },
+  {
+    "id": 16,
+    "check": true,
+    "name": "Wistron NeWeb Corporation",
+    "fccid": "NKR"
+  },
+  {
+    "id": 17,
+    "check": true,
+    "name": "ZyXEL Communications Corporation",
+    "fccid": "I88"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "dev": "vite",
+    "start": "node server.js",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "puppeteer": "^23.10.0",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
+  },
+  "bin": "server.js",
+  "pkg": {
+    "scripts": [
+      "server.js"
+    ],
+    "assets": [
+      "node_modules/puppeteer/.local-chromium/**/*",
+      "public/**/*",
+      "fccID.json",
+      "fileKey.json"
+    ],
+    "targets": [
+      "node16-win-x64"
+    ],
+    "dependencies": [
+      "axios"
+    ],
+    "outputPath": "dist"
+  }
+}

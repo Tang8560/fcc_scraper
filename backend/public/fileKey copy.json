@@ -1,0 +1,12 @@
+[
+  {
+    "id": 0,
+    "check": true,
+    "name": "External-Photos"
+  },
+  {
+    "id": 1,
+    "check": true,
+    "name": "Internal-Photos"
+  }
+]
